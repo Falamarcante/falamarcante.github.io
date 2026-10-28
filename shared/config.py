@@ -9,7 +9,7 @@ ROOT = Path(__file__).resolve().parent.parent
 OUTPUT_DIR = ROOT / "output"
 # This repository is private. Publishing runs in a public one (free GitHub Actions and Pages) that holds the queue,
 # publisher/, shared/ and the media; PUBLIC_DIR is its local clone (generator/public_repo.py).
-PUBLIC_REMOTE = "https://github.com/falamarcante/falamarcante.github.io.git"
+PUBLIC_REMOTE = "https://github.com/Falamarcante/falamarcante.github.io.git"
 PUBLIC_DIR = ROOT / "public"
 TIMEZONE = "America/Sao_Paulo"
 VOICE_RATE = "+0%"  # inside sentences only; the pauses between sentences keep their length
