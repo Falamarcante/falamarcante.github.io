@@ -3,7 +3,7 @@ import os
 from dataclasses import dataclass
 from pathlib import Path
 
-from dotenv import load_dotenv
+from dotenv import dotenv_values, load_dotenv
 
 ROOT = Path(__file__).resolve().parent.parent
 OUTPUT_DIR = ROOT / "output"
@@ -21,6 +21,8 @@ VOICES_BY_KIND = {
     "serie": "en-US-BrianMultilingualNeural",
 }
 VOICE = VOICES_BY_KIND["livro"]
+# Keys shared by every profile on this PC (owner's choice, 2026-10-28); the project's own .env wins when it has a value.
+SHARED_ENV_FILE = Path.home() / "Downloads" / "chaves-compartilhadas.env"
 
 
 @dataclass(frozen=True)
@@ -32,11 +34,12 @@ class Settings:
     handle: str
 
 
-def load_settings(env_file: Path | None = ROOT / ".env") -> Settings:
+def load_settings(env_file: Path | None = ROOT / ".env", shared_env_file: Path | None = SHARED_ENV_FILE) -> Settings:
     if env_file is not None and Path(env_file).exists():
         load_dotenv(env_file, override=False)
+    shared = dotenv_values(shared_env_file) if shared_env_file is not None and Path(shared_env_file).exists() else {}
     return Settings(
-        pixabay_api_key=os.getenv("PIXABAY_API_KEY") or None,
+        pixabay_api_key=os.getenv("PIXABAY_API_KEY") or shared.get("PIXABAY_API_KEY") or None,
         ig_user_id=os.getenv("IG_USER_ID") or None,
         ig_access_token=os.getenv("IG_ACCESS_TOKEN") or None,
         pages_base_url=(os.getenv("PAGES_BASE_URL") or "").rstrip("/") or None,

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "estreia-r1",
+    "type": "reel",
+    "scheduled_at": "2026-10-30T12:00:00-03:00",
+    "caption": "Pra quem apanhou da vida essa semana.\nUma das frases de filmes mais marcantes: Rocky Balboa, em Rocky Balboa (2006).\nQual frase de filme te levantou num dia difícil?\n\n#frases #frasesdefilmes #rocky #filmes #motivacao",
+    "media": [
+      "reel.mp4",
+      "cover.jpg"
+    ],
+    "platforms": {
+      "instagram": {
+        "status": "pending",
+        "attempts": 0,
+        "published_id": null,
+        "last_error": null
+      },
+      "tiktok": {
+        "status": "manual",
+        "attempts": 0,
+        "published_id": null,
+        "last_error": null
+      }
+    }
+  }
+]
