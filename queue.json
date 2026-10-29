@@ -22,5 +22,243 @@
         "last_error": null
       }
     }
+  },
+  {
+    "id": "2026-10-31-r1",
+    "type": "reel",
+    "scheduled_at": "2026-10-31T21:00:00-03:00",
+    "caption": "Você está vivendo hoje ou só esperando amanhã?\nUma das frases de filmes mais bonitas sobre o tempo: Mestre Oogway, em Kung Fu Panda (2008).\nO que você faria hoje se parasse de esperar o momento certo?\n\n#frases #frasesdefilmes #kungfupanda #filmes #reflexao",
+    "media": [
+      "reel.mp4",
+      "cover.jpg"
+    ],
+    "platforms": {
+      "instagram": {
+        "status": "pending",
+        "attempts": 0,
+        "published_id": null,
+        "last_error": null
+      },
+      "tiktok": {
+        "status": "manual",
+        "attempts": 0,
+        "published_id": null,
+        "last_error": null
+      }
+    }
+  },
+  {
+    "id": "2026-10-31-r2",
+    "type": "reel",
+    "scheduled_at": "2026-11-01T12:00:00-03:00",
+    "caption": "Pra quem caiu feio essa semana.\nFrases de filmes que levantam a gente: Thomas Wayne, em Batman Begins (2005).\nQual foi a queda que mais te ensinou?\n\n#frases #frasesdefilmes #batman #filmes #motivacao",
+    "media": [
+      "reel.mp4",
+      "cover.jpg"
+    ],
+    "platforms": {
+      "instagram": {
+        "status": "pending",
+        "attempts": 0,
+        "published_id": null,
+        "last_error": null
+      },
+      "tiktok": {
+        "status": "manual",
+        "attempts": 0,
+        "published_id": null,
+        "last_error": null
+      }
+    }
+  },
+  {
+    "id": "2026-10-31-c1",
+    "type": "carousel",
+    "scheduled_at": "2026-11-01T19:00:00-03:00",
+    "caption": "5 frases de O Senhor dos Anéis que ficam pra vida.\nFrases de filmes e trechos de livros de Tolkien, cada uma com a fonte.\nQual é a sua favorita?\n\n#frases #senhordosaneis #tolkien #filmes #livros",
+    "media": [
+      "slide-01.jpg",
+      "slide-02.jpg",
+      "slide-03.jpg",
+      "slide-04.jpg",
+      "slide-05.jpg",
+      "slide-06.jpg",
+      "slide-07.jpg"
+    ],
+    "platforms": {
+      "instagram": {
+        "status": "pending",
+        "attempts": 0,
+        "published_id": null,
+        "last_error": null
+      }
+    }
+  },
+  {
+    "id": "2026-10-31-r3",
+    "type": "reel",
+    "scheduled_at": "2026-11-02T21:00:00-03:00",
+    "caption": "Hoje é dia de lembrar quem não está mais aqui.\nTrechos de livros que consolam: Alvo Dumbledore, em Harry Potter e o Prisioneiro de Azkaban (cap. 22).\nQuem você leva no coração hoje?\n\n#frases #trechosdelivros #harrypotter #livros #finados",
+    "media": [
+      "reel.mp4",
+      "cover.jpg"
+    ],
+    "platforms": {
+      "instagram": {
+        "status": "pending",
+        "attempts": 0,
+        "published_id": null,
+        "last_error": null
+      },
+      "tiktok": {
+        "status": "manual",
+        "attempts": 0,
+        "published_id": null,
+        "last_error": null
+      }
+    }
+  },
+  {
+    "id": "2026-10-31-r4",
+    "type": "reel",
+    "scheduled_at": "2026-11-03T12:00:00-03:00",
+    "caption": "Pra quem acha que não vale a pena.\nTrechos de livros que atravessam o tempo: Fernando Pessoa, em Mensagem (\"Mar Português\").\nO que você ainda acha que vale a pena tentar?\n\n#frases #trechosdelivros #fernandopessoa #livros #motivacao",
+    "media": [
+      "reel.mp4",
+      "cover.jpg"
+    ],
+    "platforms": {
+      "instagram": {
+        "status": "pending",
+        "attempts": 0,
+        "published_id": null,
+        "last_error": null
+      },
+      "tiktok": {
+        "status": "manual",
+        "attempts": 0,
+        "published_id": null,
+        "last_error": null
+      }
+    }
+  },
+  {
+    "id": "2026-10-31-c2",
+    "type": "carousel",
+    "scheduled_at": "2026-11-03T19:00:00-03:00",
+    "caption": "Você sabe de onde é essa frase?\nDesafio de frases de filmes: 3 falas que todo mundo já ouviu. A resposta está sempre no slide seguinte.\nQuantas você acertou?\n\n#frases #frasesdefilmes #desafio #filmes #cinema",
+    "media": [
+      "slide-01.jpg",
+      "slide-02.jpg",
+      "slide-03.jpg",
+      "slide-04.jpg",
+      "slide-05.jpg",
+      "slide-06.jpg",
+      "slide-07.jpg",
+      "slide-08.jpg"
+    ],
+    "platforms": {
+      "instagram": {
+        "status": "pending",
+        "attempts": 0,
+        "published_id": null,
+        "last_error": null
+      }
+    }
+  },
+  {
+    "id": "2026-10-31-r5",
+    "type": "reel",
+    "scheduled_at": "2026-11-04T21:00:00-03:00",
+    "caption": "Você só percebe os bons tempos quando eles acabam?\nFrases de séries que doem do jeito certo: Andy Bernard, em The Office (T9E24).\nQual época da sua vida você só percebeu que era boa depois?\n\n#frases #frasesdeseries #theoffice #series #reflexao",
+    "media": [
+      "reel.mp4",
+      "cover.jpg"
+    ],
+    "platforms": {
+      "instagram": {
+        "status": "pending",
+        "attempts": 0,
+        "published_id": null,
+        "last_error": null
+      },
+      "tiktok": {
+        "status": "manual",
+        "attempts": 0,
+        "published_id": null,
+        "last_error": null
+      }
+    }
+  },
+  {
+    "id": "2026-10-31-c3",
+    "type": "carousel",
+    "scheduled_at": "2026-11-05T19:00:00-03:00",
+    "caption": "Frases pra quem está recomeçando.\nFrases de filmes, séries e trechos de livros pra quem está começando de novo.\nO que você está recomeçando agora?\n\n#frases #recomeco #frasesdefilmes #livros #series",
+    "media": [
+      "slide-01.jpg",
+      "slide-02.jpg",
+      "slide-03.jpg",
+      "slide-04.jpg",
+      "slide-05.jpg",
+      "slide-06.jpg",
+      "slide-07.jpg"
+    ],
+    "platforms": {
+      "instagram": {
+        "status": "pending",
+        "attempts": 0,
+        "published_id": null,
+        "last_error": null
+      }
+    }
+  },
+  {
+    "id": "2026-10-31-r6",
+    "type": "reel",
+    "scheduled_at": "2026-11-05T21:00:00-03:00",
+    "caption": "Pra quem está com saudade de alguém hoje.\nUma das frases de filmes que mais fazem chorar: Ellie, em Up: Altas Aventuras (2009).\nQual aventura você ainda quer viver?\n\n#frases #frasesdefilmes #up #pixar #filmes",
+    "media": [
+      "reel.mp4",
+      "cover.jpg"
+    ],
+    "platforms": {
+      "instagram": {
+        "status": "pending",
+        "attempts": 0,
+        "published_id": null,
+        "last_error": null
+      },
+      "tiktok": {
+        "status": "manual",
+        "attempts": 0,
+        "published_id": null,
+        "last_error": null
+      }
+    }
+  },
+  {
+    "id": "2026-10-31-r7",
+    "type": "reel",
+    "scheduled_at": "2026-11-06T12:00:00-03:00",
+    "caption": "Tem uma escolha que você faz todo dia sem perceber.\nFrases de filmes que mudam o dia: Andy Dufresne, em Um Sonho de Liberdade (1994).\nO que você vai começar a viver a partir de hoje?\n\n#frases #frasesdefilmes #umsonhodeliberdade #filmes #motivacao",
+    "media": [
+      "reel.mp4",
+      "cover.jpg"
+    ],
+    "platforms": {
+      "instagram": {
+        "status": "pending",
+        "attempts": 0,
+        "published_id": null,
+        "last_error": null
+      },
+      "tiktok": {
+        "status": "manual",
+        "attempts": 0,
+        "published_id": null,
+        "last_error": null
+      }
+    }
   }
 ]
