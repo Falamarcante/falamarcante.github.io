@@ -2,7 +2,7 @@
   {
     "id": "estreia-r1",
     "type": "reel",
-    "scheduled_at": "2026-10-30T12:00:00-03:00",
+    "scheduled_at": "2026-10-29T12:00:00-03:00",
     "caption": "Pra quem apanhou da vida essa semana.\nUma das frases de filmes mais marcantes: Rocky Balboa, em Rocky Balboa (2006).\nQual frase de filme te levantou num dia difícil?\n\n#frases #frasesdefilmes #rocky #filmes #motivacao",
     "media": [
       "reel.mp4",
@@ -17,6 +17,29 @@
       },
       "tiktok": {
         "status": "manual",
+        "attempts": 0,
+        "published_id": null,
+        "last_error": null
+      }
+    }
+  },
+  {
+    "id": "extra-2026-10-29-c1",
+    "type": "carousel",
+    "scheduled_at": "2026-10-29T19:00:00-03:00",
+    "caption": "Frases pra quem está cansado de lutar.\nFrases de filmes, séries e trechos de livros pra um dia difícil: Procurando Nemo, Nárnia, Avatar, O Senhor dos Anéis e Guimarães Rosa.\nQual dessas você precisava ouvir hoje?\n\n#frases #frasesdefilmes #trechosdelivros #coragem #motivacao",
+    "media": [
+      "slide-01.jpg",
+      "slide-02.jpg",
+      "slide-03.jpg",
+      "slide-04.jpg",
+      "slide-05.jpg",
+      "slide-06.jpg",
+      "slide-07.jpg"
+    ],
+    "platforms": {
+      "instagram": {
+        "status": "pending",
         "attempts": 0,
         "published_id": null,
         "last_error": null
