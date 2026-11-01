@@ -128,9 +128,9 @@
     ],
     "platforms": {
       "instagram": {
-        "status": "pending",
+        "status": "published",
         "attempts": 0,
-        "published_id": null,
+        "published_id": "18180540112441165",
         "last_error": null
       },
       "tiktok": {
