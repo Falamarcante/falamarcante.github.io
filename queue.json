@@ -261,6 +261,30 @@
     }
   },
   {
+    "id": "teste-f1",
+    "type": "reel",
+    "scheduled_at": "2026-11-03T21:00:00-03:00",
+    "caption": "Ninguém é perfeito. E tudo bem.\nFrases de filmes sobre amor: Sean Maguire, em Gênio Indomável (1997).\nManda pra quem é perfeito pra você.\n\n#frases #frasesdefilmes #amor #filmes #geniondomavel",
+    "media": [
+      "reel.mp4",
+      "cover.jpg"
+    ],
+    "platforms": {
+      "instagram": {
+        "status": "pending",
+        "attempts": 0,
+        "published_id": null,
+        "last_error": null
+      },
+      "tiktok": {
+        "status": "manual",
+        "attempts": 0,
+        "published_id": null,
+        "last_error": null
+      }
+    }
+  },
+  {
     "id": "extra-2026-10-30-c2",
     "type": "carousel",
     "scheduled_at": "2026-11-04T19:00:00-03:00",
@@ -289,6 +313,30 @@
     "type": "reel",
     "scheduled_at": "2026-11-04T21:00:00-03:00",
     "caption": "Você só percebe os bons tempos quando eles acabam?\nFrases de séries que doem do jeito certo: Andy Bernard, em The Office (T9E24).\nQual época da sua vida você só percebeu que era boa depois?\n\n#frases #frasesdeseries #theoffice #series #reflexao",
+    "media": [
+      "reel.mp4",
+      "cover.jpg"
+    ],
+    "platforms": {
+      "instagram": {
+        "status": "pending",
+        "attempts": 0,
+        "published_id": null,
+        "last_error": null
+      },
+      "tiktok": {
+        "status": "manual",
+        "attempts": 0,
+        "published_id": null,
+        "last_error": null
+      }
+    }
+  },
+  {
+    "id": "teste-f2",
+    "type": "reel",
+    "scheduled_at": "2026-11-05T12:00:00-03:00",
+    "caption": "Tentar não é fazer.\nFrases de filmes que dão um empurrão: Yoda, em Star Wars: O Império Contra-Ataca (1980).\nO que você está só tentando, quando devia estar fazendo?\n\n#frases #frasesdefilmes #starwars #filmes #motivacao",
     "media": [
       "reel.mp4",
       "cover.jpg"
@@ -384,6 +432,30 @@
     "type": "reel",
     "scheduled_at": "2026-11-06T21:00:00-03:00",
     "caption": "Essa frase de Ted Lasso tem um erro escondido.\nFrases de séries com fonte conferida: Ted Lasso, em Ted Lasso (T1E8). Na cena, Ted atribui a frase a Walt Whitman, mas ela não aparece na obra dele.\nQual frase você já compartilhou com o autor errado?\n\n#frases #frasesdeseries #tedlasso #series #curiosidades",
+    "media": [
+      "reel.mp4",
+      "cover.jpg"
+    ],
+    "platforms": {
+      "instagram": {
+        "status": "pending",
+        "attempts": 0,
+        "published_id": null,
+        "last_error": null
+      },
+      "tiktok": {
+        "status": "manual",
+        "attempts": 0,
+        "published_id": null,
+        "last_error": null
+      }
+    }
+  },
+  {
+    "id": "teste-f3",
+    "type": "reel",
+    "scheduled_at": "2026-11-07T12:00:00-03:00",
+    "caption": "O essencial não se vê.\nTrechos de livros que todo mundo devia reler: Antoine de Saint-Exupéry, em O Pequeno Príncipe (cap. 21).\nQuem é essencial pra você?\n\n#frases #trechosdelivros #opequenoprincipe #livros #amor",
     "media": [
       "reel.mp4",
       "cover.jpg"
