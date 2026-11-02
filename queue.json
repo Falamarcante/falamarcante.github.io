@@ -237,23 +237,23 @@
     }
   },
   {
-    "id": "2026-10-31-c2",
-    "type": "carousel",
+    "id": "teste-f4",
+    "type": "reel",
     "scheduled_at": "2026-11-03T19:00:00-03:00",
-    "caption": "Você sabe de onde é essa frase?\nDesafio de frases de filmes: 3 falas que todo mundo já ouviu. A resposta está sempre no slide seguinte.\nQuantas você acertou?\n\n#frases #frasesdefilmes #desafio #filmes #cinema",
+    "caption": "Lembre-se de quem você é.\nFrases de filmes que voltam pra gente: Mufasa, em O Rei Leão (1994).\nQuem te ajuda a lembrar de quem você é?\n\n#frases #frasesdefilmes #oreileao #disney #filmes",
     "media": [
-      "slide-01.jpg",
-      "slide-02.jpg",
-      "slide-03.jpg",
-      "slide-04.jpg",
-      "slide-05.jpg",
-      "slide-06.jpg",
-      "slide-07.jpg",
-      "slide-08.jpg"
+      "reel.mp4",
+      "cover.jpg"
     ],
     "platforms": {
       "instagram": {
         "status": "pending",
+        "attempts": 0,
+        "published_id": null,
+        "last_error": null
+      },
+      "tiktok": {
+        "status": "manual",
         "attempts": 0,
         "published_id": null,
         "last_error": null
@@ -285,23 +285,23 @@
     }
   },
   {
-    "id": "extra-2026-10-30-c2",
-    "type": "carousel",
+    "id": "teste-f5",
+    "type": "reel",
     "scheduled_at": "2026-11-04T19:00:00-03:00",
-    "caption": "6 frases para parar de ficar sem dinheiro.\nTrechos de livros sobre dinheiro, de Sêneca a Morgan Housel, cada um com a fonte.\nQual é o seu maior vazamento de dinheiro hoje?\n\n#frases #trechosdelivros #financaspessoais #dinheiro #livros",
+    "caption": "O jeito mais rápido de ter menos dinheiro.\nTrechos de livros sobre dinheiro: Morgan Housel, em A Psicologia Financeira.\nQual gasto você faz só pra mostrar?\n\n#frases #trechosdelivros #financaspessoais #dinheiro #livros",
     "media": [
-      "slide-01.jpg",
-      "slide-02.jpg",
-      "slide-03.jpg",
-      "slide-04.jpg",
-      "slide-05.jpg",
-      "slide-06.jpg",
-      "slide-07.jpg",
-      "slide-08.jpg"
+      "reel.mp4",
+      "cover.jpg"
     ],
     "platforms": {
       "instagram": {
         "status": "pending",
+        "attempts": 0,
+        "published_id": null,
+        "last_error": null
+      },
+      "tiktok": {
+        "status": "manual",
         "attempts": 0,
         "published_id": null,
         "last_error": null
@@ -357,22 +357,23 @@
     }
   },
   {
-    "id": "2026-10-31-c3",
-    "type": "carousel",
+    "id": "teste-f6",
+    "type": "reel",
     "scheduled_at": "2026-11-05T19:00:00-03:00",
-    "caption": "Frases pra quem está recomeçando.\nFrases de filmes, séries e trechos de livros pra quem está começando de novo.\nO que você está recomeçando agora?\n\n#frases #recomeco #frasesdefilmes #livros #series",
+    "caption": "Nunca é tarde demais.\nFrases de filmes pra quem quer recomeçar: Benjamin Button, em O Curioso Caso de Benjamin Button (2008).\nO que você ainda quer começar?\n\n#frases #frasesdefilmes #benjaminbutton #filmes #recomeco",
     "media": [
-      "slide-01.jpg",
-      "slide-02.jpg",
-      "slide-03.jpg",
-      "slide-04.jpg",
-      "slide-05.jpg",
-      "slide-06.jpg",
-      "slide-07.jpg"
+      "reel.mp4",
+      "cover.jpg"
     ],
     "platforms": {
       "instagram": {
         "status": "pending",
+        "attempts": 0,
+        "published_id": null,
+        "last_error": null
+      },
+      "tiktok": {
+        "status": "manual",
         "attempts": 0,
         "published_id": null,
         "last_error": null
