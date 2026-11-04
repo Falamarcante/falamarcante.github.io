@@ -295,10 +295,10 @@
     ],
     "platforms": {
       "instagram": {
-        "status": "pending",
+        "status": "published",
         "attempts": 1,
-        "published_id": null,
-        "last_error": "teste-f5: container 17994565220886599 status ERROR: ERROR"
+        "published_id": "18173352364464202",
+        "last_error": null
       },
       "tiktok": {
         "status": "manual",
