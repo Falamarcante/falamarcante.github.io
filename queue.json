@@ -296,9 +296,9 @@
     "platforms": {
       "instagram": {
         "status": "pending",
-        "attempts": 0,
+        "attempts": 1,
         "published_id": null,
-        "last_error": null
+        "last_error": "teste-f5: container 17994565220886599 status ERROR: ERROR"
       },
       "tiktok": {
         "status": "manual",
