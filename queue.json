@@ -475,5 +475,219 @@
         "last_error": null
       }
     }
+  },
+  {
+    "id": "2026-11-09-r1",
+    "type": "reel",
+    "scheduled_at": "2026-11-09T12:00:00-03:00",
+    "caption": "Pra quem ouviu que não vai conseguir.\nFrases de filmes que dão força: Chris Gardner, em À Procura da Felicidade (2006).\nQuem já te disse que você não ia conseguir?\n\n#frases #frasesdefilmes #aprocuradafelicidade #filmes #motivacao",
+    "media": [
+      "reel.mp4",
+      "cover.jpg"
+    ],
+    "platforms": {
+      "instagram": {
+        "status": "pending",
+        "attempts": 0,
+        "published_id": null,
+        "last_error": null
+      },
+      "tiktok": {
+        "status": "manual",
+        "attempts": 0,
+        "published_id": null,
+        "last_error": null
+      }
+    }
+  },
+  {
+    "id": "2026-11-09-c1",
+    "type": "carousel",
+    "scheduled_at": "2026-11-10T19:00:00-03:00",
+    "caption": "5 frases para parar de ficar sem dinheiro.\nTrechos de livros sobre dinheiro, cada um com a fonte: Benjamin Franklin, Robert Kiyosaki, George S. Clason, Morgan Housel e Sêneca.\nQual delas você precisava ler hoje?\n\n#frases #trechosdelivros #dinheiro #financaspessoais #livros",
+    "media": [
+      "slide-01.jpg",
+      "slide-02.jpg",
+      "slide-03.jpg",
+      "slide-04.jpg",
+      "slide-05.jpg",
+      "slide-06.jpg",
+      "slide-07.jpg"
+    ],
+    "platforms": {
+      "instagram": {
+        "status": "pending",
+        "attempts": 0,
+        "published_id": null,
+        "last_error": null
+      }
+    }
+  },
+  {
+    "id": "2026-11-09-r2",
+    "type": "reel",
+    "scheduled_at": "2026-11-10T21:00:00-03:00",
+    "caption": "Um dia ruim não apaga tudo de bom.\nFrases de séries que consolam: O Doutor, em Doctor Who (T5E10).\nQual coisa boa continuou boa mesmo depois de um tempo difícil?\n\n#frases #frasesdeseries #doctorwho #series #reflexao",
+    "media": [
+      "reel.mp4",
+      "cover.jpg"
+    ],
+    "platforms": {
+      "instagram": {
+        "status": "pending",
+        "attempts": 0,
+        "published_id": null,
+        "last_error": null
+      },
+      "tiktok": {
+        "status": "manual",
+        "attempts": 0,
+        "published_id": null,
+        "last_error": null
+      }
+    }
+  },
+  {
+    "id": "2026-11-09-r3",
+    "type": "reel",
+    "scheduled_at": "2026-11-11T12:00:00-03:00",
+    "caption": "Se essa semana te derrubou, escuta isso.\nFrases de filmes que levantam a gente: Rocky Balboa, em Rocky Balboa (2006).\nO que te fez levantar da última vez?\n\n#frases #frasesdefilmes #rocky #filmes #motivacao",
+    "media": [
+      "reel.mp4",
+      "cover.jpg"
+    ],
+    "platforms": {
+      "instagram": {
+        "status": "pending",
+        "attempts": 0,
+        "published_id": null,
+        "last_error": null
+      },
+      "tiktok": {
+        "status": "manual",
+        "attempts": 0,
+        "published_id": null,
+        "last_error": null
+      }
+    }
+  },
+  {
+    "id": "2026-11-09-c2",
+    "type": "carousel",
+    "scheduled_at": "2026-11-12T19:00:00-03:00",
+    "caption": "Você sabe de onde é essa frase?\nFrases de filmes e trechos de livros que muita gente repete sem lembrar a fonte. A resposta vem no slide seguinte.\nQuantas você acertou sem olhar?\n\n#frases #frasesdefilmes #trechosdelivros #filmes #livros",
+    "media": [
+      "slide-01.jpg",
+      "slide-02.jpg",
+      "slide-03.jpg",
+      "slide-04.jpg",
+      "slide-05.jpg",
+      "slide-06.jpg",
+      "slide-07.jpg",
+      "slide-08.jpg"
+    ],
+    "platforms": {
+      "instagram": {
+        "status": "pending",
+        "attempts": 0,
+        "published_id": null,
+        "last_error": null
+      }
+    }
+  },
+  {
+    "id": "2026-11-09-r4",
+    "type": "reel",
+    "scheduled_at": "2026-11-12T21:00:00-03:00",
+    "caption": "Você não tem pouco tempo.\nTrechos de livros de quase 2 mil anos que continuam atuais: Sêneca, em Sobre a Brevidade da Vida (cap. 1).\nCom o que você mais desperdiça tempo?\n\n#frases #trechosdelivros #seneca #livros #estoicismo",
+    "media": [
+      "reel.mp4",
+      "cover.jpg"
+    ],
+    "platforms": {
+      "instagram": {
+        "status": "pending",
+        "attempts": 0,
+        "published_id": null,
+        "last_error": null
+      },
+      "tiktok": {
+        "status": "manual",
+        "attempts": 0,
+        "published_id": null,
+        "last_error": null
+      }
+    }
+  },
+  {
+    "id": "2026-11-09-r5",
+    "type": "reel",
+    "scheduled_at": "2026-11-13T12:00:00-03:00",
+    "caption": "Pra quem tem vergonha de onde veio.\nTrechos de livros que ficam: Alvo Dumbledore, em Harry Potter e o Cálice de Fogo (cap. 36).\nO que você se tornou que ninguém esperava?\n\n#frases #trechosdelivros #harrypotter #livros #dumbledore",
+    "media": [
+      "reel.mp4",
+      "cover.jpg"
+    ],
+    "platforms": {
+      "instagram": {
+        "status": "pending",
+        "attempts": 0,
+        "published_id": null,
+        "last_error": null
+      },
+      "tiktok": {
+        "status": "manual",
+        "attempts": 0,
+        "published_id": null,
+        "last_error": null
+      }
+    }
+  },
+  {
+    "id": "2026-11-09-c3",
+    "type": "carousel",
+    "scheduled_at": "2026-11-14T19:00:00-03:00",
+    "caption": "Frases pra quem está recomeçando.\nFrases de séries, frases de filmes e trechos de livros de Avatar, O Rei Leão, Fernando Pessoa, C. S. Lewis e Um Sonho de Liberdade, cada uma com a fonte.\nQual delas você mandaria pra quem está recomeçando?\n\n#frases #frasesdefilmes #trechosdelivros #series #recomeco",
+    "media": [
+      "slide-01.jpg",
+      "slide-02.jpg",
+      "slide-03.jpg",
+      "slide-04.jpg",
+      "slide-05.jpg",
+      "slide-06.jpg",
+      "slide-07.jpg"
+    ],
+    "platforms": {
+      "instagram": {
+        "status": "pending",
+        "attempts": 0,
+        "published_id": null,
+        "last_error": null
+      }
+    }
+  },
+  {
+    "id": "2026-11-09-r6",
+    "type": "reel",
+    "scheduled_at": "2026-11-14T21:00:00-03:00",
+    "caption": "Pra quem você diria isso?\nFrases de filmes sobre amor: Noah Calhoun, em Diário de uma Paixão (2004).\nQuem é o pássaro da sua vida?\n\n#frases #frasesdefilmes #diariodeumapaixao #filmes #amor",
+    "media": [
+      "reel.mp4",
+      "cover.jpg"
+    ],
+    "platforms": {
+      "instagram": {
+        "status": "pending",
+        "attempts": 0,
+        "published_id": null,
+        "last_error": null
+      },
+      "tiktok": {
+        "status": "manual",
+        "attempts": 0,
+        "published_id": null,
+        "last_error": null
+      }
+    }
   }
 ]
