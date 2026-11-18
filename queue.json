@@ -689,5 +689,219 @@
         "last_error": null
       }
     }
+  },
+  {
+    "id": "2026-11-19-r1",
+    "type": "reel",
+    "scheduled_at": "2026-11-19T12:00:00-03:00",
+    "caption": "O que fica de você?\nFrases de filmes que dão força: Maximus, em Gladiador (2000).\nO que você está fazendo hoje que quer que fique?\n\n#frases #frasesdefilmes #gladiador #filmes #motivacao",
+    "media": [
+      "reel.mp4",
+      "cover.jpg"
+    ],
+    "platforms": {
+      "instagram": {
+        "status": "pending",
+        "attempts": 0,
+        "published_id": null,
+        "last_error": null
+      },
+      "tiktok": {
+        "status": "manual",
+        "attempts": 0,
+        "published_id": null,
+        "last_error": null
+      }
+    }
+  },
+  {
+    "id": "2026-11-19-c1",
+    "type": "carousel",
+    "scheduled_at": "2026-11-20T19:00:00-03:00",
+    "caption": "5 frases de Nárnia.\nFrases de filmes e trechos de livros de As Crônicas de Nárnia, de C. S. Lewis, cada uma com a fonte: Aslam, Sr. Castor e Brejeiro.\nQual personagem de Nárnia marcou a sua infância?\n\n#frases #narnia #cronicasdenarnia #livros #filmes",
+    "media": [
+      "slide-01.jpg",
+      "slide-02.jpg",
+      "slide-03.jpg",
+      "slide-04.jpg",
+      "slide-05.jpg",
+      "slide-06.jpg",
+      "slide-07.jpg"
+    ],
+    "platforms": {
+      "instagram": {
+        "status": "pending",
+        "attempts": 0,
+        "published_id": null,
+        "last_error": null
+      }
+    }
+  },
+  {
+    "id": "2026-11-19-r2",
+    "type": "reel",
+    "scheduled_at": "2026-11-20T21:00:00-03:00",
+    "caption": "Pra quem ama alguém longe.\nFrases de filmes sobre amor: Amelia Brand, em Interestelar (2014).\nQuem você ama que está longe agora?\n\n#frases #frasesdefilmes #interestelar #filmes #amor",
+    "media": [
+      "reel.mp4",
+      "cover.jpg"
+    ],
+    "platforms": {
+      "instagram": {
+        "status": "pending",
+        "attempts": 0,
+        "published_id": null,
+        "last_error": null
+      },
+      "tiktok": {
+        "status": "manual",
+        "attempts": 0,
+        "published_id": null,
+        "last_error": null
+      }
+    }
+  },
+  {
+    "id": "2026-11-19-r3",
+    "type": "reel",
+    "scheduled_at": "2026-11-21T12:00:00-03:00",
+    "caption": "Se estão falando de você, escuta isso.\nFrases de séries que ficam: Don Draper, em Mad Men (T3E2).\nQual conversa você precisa mudar na sua vida?\n\n#frases #frasesdeseries #madmen #series #motivacao",
+    "media": [
+      "reel.mp4",
+      "cover.jpg"
+    ],
+    "platforms": {
+      "instagram": {
+        "status": "pending",
+        "attempts": 0,
+        "published_id": null,
+        "last_error": null
+      },
+      "tiktok": {
+        "status": "manual",
+        "attempts": 0,
+        "published_id": null,
+        "last_error": null
+      }
+    }
+  },
+  {
+    "id": "2026-11-19-c2",
+    "type": "carousel",
+    "scheduled_at": "2026-11-22T19:00:00-03:00",
+    "caption": "Você sabe de onde é essa frase?\nFrases de filmes e trechos de livros que todo mundo já ouviu, mas nem todo mundo sabe a fonte. A resposta vem no slide seguinte.\nQuantas você acertou sem olhar?\n\n#frases #frasesdefilmes #trechosdelivros #filmes #livros",
+    "media": [
+      "slide-01.jpg",
+      "slide-02.jpg",
+      "slide-03.jpg",
+      "slide-04.jpg",
+      "slide-05.jpg",
+      "slide-06.jpg",
+      "slide-07.jpg",
+      "slide-08.jpg"
+    ],
+    "platforms": {
+      "instagram": {
+        "status": "pending",
+        "attempts": 0,
+        "published_id": null,
+        "last_error": null
+      }
+    }
+  },
+  {
+    "id": "2026-11-19-r5",
+    "type": "reel",
+    "scheduled_at": "2026-11-23T12:00:00-03:00",
+    "caption": "Cada ação é um voto.\nTrechos de livros sobre hábitos e rotina: James Clear, em Hábitos Atômicos (cap. 2).\nQue voto você vai dar hoje?\n\n#frases #trechosdelivros #habitosatomicos #livros #habitos",
+    "media": [
+      "reel.mp4",
+      "cover.jpg"
+    ],
+    "platforms": {
+      "instagram": {
+        "status": "pending",
+        "attempts": 0,
+        "published_id": null,
+        "last_error": null
+      },
+      "tiktok": {
+        "status": "manual",
+        "attempts": 0,
+        "published_id": null,
+        "last_error": null
+      }
+    }
+  },
+  {
+    "id": "2026-11-19-c3",
+    "type": "carousel",
+    "scheduled_at": "2026-11-24T19:00:00-03:00",
+    "caption": "Frases pra quem está com medo de mudar.\nTrechos de livros, frases de filmes e frases de séries de Sêneca, Matrix, Mad Men, Hermann Hesse e Napoleon Hill, cada uma com a fonte.\nQue mudança você está adiando?\n\n#frases #trechosdelivros #frasesdefilmes #series #mudanca",
+    "media": [
+      "slide-01.jpg",
+      "slide-02.jpg",
+      "slide-03.jpg",
+      "slide-04.jpg",
+      "slide-05.jpg",
+      "slide-06.jpg",
+      "slide-07.jpg"
+    ],
+    "platforms": {
+      "instagram": {
+        "status": "pending",
+        "attempts": 0,
+        "published_id": null,
+        "last_error": null
+      }
+    }
+  },
+  {
+    "id": "2026-11-19-r6",
+    "type": "reel",
+    "scheduled_at": "2026-11-24T21:00:00-03:00",
+    "caption": "Transforme seu ponto fraco em armadura.\nFrases de séries que ficam: Tyrion Lannister, em Game of Thrones (T1E1).\nO que já usaram contra você e hoje você assume com orgulho?\n\n#frases #frasesdeseries #gameofthrones #series #reflexao",
+    "media": [
+      "reel.mp4",
+      "cover.jpg"
+    ],
+    "platforms": {
+      "instagram": {
+        "status": "pending",
+        "attempts": 0,
+        "published_id": null,
+        "last_error": null
+      },
+      "tiktok": {
+        "status": "manual",
+        "attempts": 0,
+        "published_id": null,
+        "last_error": null
+      }
+    }
+  },
+  {
+    "id": "2026-11-19-r7",
+    "type": "reel",
+    "scheduled_at": "2026-11-25T21:00:00-03:00",
+    "caption": "Pra quem perdeu tudo.\nFrases de filmes que fazem pensar: Tyler Durden, em Clube da Luta (1999).\nO que você só teve coragem de fazer depois de perder algo?\n\n#frases #frasesdefilmes #clubedaluta #filmes #reflexao",
+    "media": [
+      "reel.mp4",
+      "cover.jpg"
+    ],
+    "platforms": {
+      "instagram": {
+        "status": "pending",
+        "attempts": 0,
+        "published_id": null,
+        "last_error": null
+      },
+      "tiktok": {
+        "status": "manual",
+        "attempts": 0,
+        "published_id": null,
+        "last_error": null
+      }
+    }
   }
 ]
