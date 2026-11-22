@@ -802,8 +802,8 @@
     ],
     "platforms": {
       "instagram": {
-        "status": "pending",
-        "attempts": 2,
+        "status": "failed",
+        "attempts": 3,
         "published_id": null,
         "last_error": "2026-11-19-c2: HTTP 403: Application request limit reached"
       }
